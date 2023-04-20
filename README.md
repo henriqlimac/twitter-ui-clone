@@ -2,7 +2,7 @@
 
 First UI clone utilizing React, thanks to Guilherme Rodz from @Rocketseat!
 
-# Rocketseat and Ghuilherme Rodz's Twitter
+# Rocketseat and Guilherme Rodz's Twitter
 
 - :rocket: [Rocketseat](https://twitter.com/rocketseat)
 - :rocket: [Guilherme Rodz](https://twitter.com/guilherme_rodz)
